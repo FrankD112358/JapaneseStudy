@@ -1,0 +1,59 @@
+{
+    "id": 837,
+    "object": "kanji",
+    "url": "https://api.wanikani.com/v2/subjects/837",
+    "data_updated_at": "2023-09-18T23:36:30.826586Z",
+    "data": {
+        "created_at": "2012-05-01T19:52:54.000000Z",
+        "level": 17,
+        "slug": "\u60b2",
+        "hidden_at": null,
+        "document_url": "https://www.wanikani.com/kanji/%E6%82%B2",
+        "characters": "\u60b2",
+        "meanings": [
+            {
+                "meaning": "Sad",
+                "primary": true,
+                "accepted_answer": true
+            }
+        ],
+        "auxiliary_meanings": [],
+        "readings": [
+            {
+                "type": "onyomi",
+                "primary": true,
+                "reading": "\u3072",
+                "accepted_answer": true
+            },
+            {
+                "type": "kunyomi",
+                "primary": false,
+                "reading": "\u304b\u306a",
+                "accepted_answer": false
+            }
+        ],
+        "component_subject_ids": [
+            209,
+            65
+        ],
+        "amalgamation_subject_ids": [
+            3376,
+            3797,
+            5808,
+            7084,
+            7695,
+            7793,
+            7983
+        ],
+        "visually_similar_subject_ids": [],
+        "meaning_mnemonic": "A <radical>criminal</radical>'s <radical>heart</radical> will always be <kanji>sad</kanji>. No one chooses a life of crime if they're happy. And even if they seem like they're doing fine on the outside, deep down they're really sad.",
+        "meaning_hint": "Imagine watching a criminal after he's done stealing from a bank. He's all alone. He stops throwing the 
+money around. And cries. So so sad.", "reading_mnemonic": "The <kanji>sad</kanji> feelings fill the criminal's body with <reading>he</reading>at (<ja>\u3072</ja>). This heat spreads and radiates out. If you walk next to them on 
+the street, you'll feel the sad heat floating by you.", "reading_hint": "Imagine being so sad that your entire body fills with heat. That heat even makes squiggly heat lines pop out above and around you.", "lesson_position": 8, "spaced_repetition_system_id": 1
+    }
+}
+
+
+
+// import json
+// print('subject', json.dumps(subject))
