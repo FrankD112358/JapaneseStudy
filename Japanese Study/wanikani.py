@@ -4,7 +4,7 @@ def wanikani(phrase):
     url = 'https://api.wanikani.com/v2/subjects'
     headers = {
         'Content-Type': 'application/json',
-        'Authorization': 'Bearer 3f64a1a2-df00-4967-b70c-daddd1600abd'
+        'Authorization': 'Bearer xxxx'
     }
 
     params = {
